@@ -61,7 +61,7 @@ print("=== CURRENTLY LOGGED IN USERS ===")
 current_users = current_users(log_event_list)
 generate_report_current_users(current_users)
 print("")
-print("=== LOGGED OUT USERS===")
+print("=== LOGGED OUT USERS ===")
 logged_out_user = logged_out_user(log_event_list)
 generate_report_current_users(logged_out_user)
 
@@ -74,6 +74,6 @@ generate_report_current_users(logged_out_user)
 ・Mailserver.local: Isa
 ・Databaseserver.local: Amber, Kitty
 
-=== LOGGED OUT USERS===
+=== LOGGED OUT USERS ===
 ・Myworkstation.local: Moana
 ・Mailserver.local: Jude
