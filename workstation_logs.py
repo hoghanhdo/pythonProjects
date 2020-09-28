@@ -64,3 +64,16 @@ print("")
 print("=== LOGGED OUT USERS===")
 logged_out_user = logged_out_user(log_event_list)
 generate_report_current_users(logged_out_user)
+
+
+
+### RUN CODES
+=== CURRENTLY LOGGED IN USERS ===
+・Webserver.local: Lee, Moana, Iris
+・Myworkstation.local: Ann
+・Mailserver.local: Isa
+・Databaseserver.local: Amber, Kitty
+
+=== LOGGED OUT USERS===
+・Myworkstation.local: Moana
+・Mailserver.local: Jude
