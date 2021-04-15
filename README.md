@@ -5,7 +5,8 @@
 
 When the program is run, we can get the report below as output.
 
-### RUN CODES
+```
+RUN CODES
 === CURRENTLY LOGGED IN USERS ===
 ・Webserver.local: Lee, Moana, Iris
 ・Myworkstation.local: Ann
@@ -15,3 +16,4 @@ When the program is run, we can get the report below as output.
 === LOGGED OUT USERS ===
 ・Myworkstation.local: Moana
 ・Mailserver.local: Jude
+```
